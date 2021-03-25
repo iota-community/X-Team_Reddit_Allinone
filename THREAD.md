@@ -14,12 +14,12 @@ ___
 &nbsp;
 
 ___
-# What should I know like right now?
+# What should you know right now?
 
 ### The Migration to the Chrysalis network starts with the 21st of April 2021
 Read about it [here](https://blog.iota.org/chrysalis-network-migration-release-date/)!
 
-Before or during the migration **KEEP YOUR SEED SAFE**! **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
+## Before or during the migration **KEEP YOUR SEED SAFE**! **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
 
 &nbsp;
 
