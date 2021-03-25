@@ -1,7 +1,3 @@
-# IOTA
-![Swirl](https://www.iota.org/logo-icon-dark.svg) ![Thumbnail](https://www.iota.org/logo-text.svg)
-
-
 ### Welcome!
 
 Hello and welcome to the IOTA Community!
@@ -22,17 +18,52 @@ ___
 
 ### The Migration to the Chrysalis network starts with the 21st of April 2021
 Read about it [here](https://blog.iota.org/chrysalis-network-migration-release-date/)!
+
+Before or during the migration **KEEP YOUR SEED SAFE**! **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
+
 &nbsp;
 
 ---
 # How do I find more information about IOTA?
 
-You can start with the resources linked here on reddit in the **Info box** on the right hand side ---->
+Learn about [Chrysalis](https://chrysalis.iota.org) production ready IOTA 
 
-* Desktop users scroll down a bit
-* Reddit Mobile users touch the *About* tab
-* [Slide for reddit](https://www.reddit.com/r/slideforreddit/) users touch the *three dots (top right)* and then *Sidebar*
-&nbsp;
+Learn about [Coordicide](https://coordicide.iota.org) coordinator-free IOTA 
+
+Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iotatoken) / [YouTube](https://youtube.com/c/IOTAFoundation) /
+[Instagram](https://www.instagram.com/iotafoundation/)
+
+## Resources for Newcomers
+* IOTA Beginners Guide: [English](https://iota-beginners-guide.com) / [Deutsch](https://iota-einsteiger-guide.de/)
+* [IOTA Archive (News/Patents aggregator)](https://iotaarchive.com)
+* [HelloIOTA (YouTube Channel)](https://www.youtube.com/c/helloiota)
+* [Awesome IOTA (Community driven link collection)](https://github.com/iota-community/awesome-iota)
+* How to contribute: [Tanglenauts (Non developers)](https://github.com/iota-community/IOTA-eXperience-Team/blob/main/community/support_the_vision.md) / [IOTA Experience Teams](https://github.com/iota-community/iota-experience-team)
+
+### Developers
+* [Developer Documentation](https://docs.iota.org)
+* [Chrysalis Developer Documentation](https://chrysalis.docs.iota.org/introduction/welcome.html)
+* [GitHub](https://github.com/iotaledger)
+* [Questions? StackExchange!](https://iota.stackexchange.com)
+
+## Academia
+* [Research Papers](https://www.iota.org/foundation/research-papers)
+* [Research Forum](https://iota.cafe)
+* [Coordicide Grants](https://coordicide.iota.org/grants)
+
+## Node Operators
+* [HORNET (Full node)](https://github.com/iotaledger/hornet)
+* [BEE (Alpha Node)](https://github.com/iotaledger/bee)
+* [CHRONICLE (Permanode)](https://github.com/iotaledger/chronicle)
+
+## Wallet
+* [Trinity Wallet (Desktop / Mobile)](https://trinity.iota.org)
+* **BETA** [Firefly Wallet (Desktop only)](https://blog.iota.org/firefly-beta-release/)
+## Other Resources
+* [IOTA Tangle Explorer](https://explorer.iota.org)
+* [IOTA Status page](https://status.iota.org) 
+* [Where to exchange IOTA](https://www.iota.org/get-started/buy-iota)
+
 
 ---
 ### How to add information to this thread
