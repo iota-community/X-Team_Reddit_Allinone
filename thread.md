@@ -73,7 +73,7 @@ Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blo
 
 ---
 ### How to add information to this thread
-To add or make changes to this thread simply do a pull-request to this repository with your edits to the thread.md file. 
+To add or make changes to this thread simply do a pull-request to [this repository](https://github.com/iota-community/X-Team_Reddit_Allinone) with your edits to the thread.md file. 
 Once a push to this repository has been made, will be automatically updated to the current version shown
 
 This post will be constantly updated, (you can follow its development over at) the IOTA Community [GitHub](https://github.com/iota-community/X-Team_Reddit_Allinone). (If you miss something, let us know!)
