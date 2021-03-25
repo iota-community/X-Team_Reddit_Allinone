@@ -7,7 +7,8 @@ This post is a starting point to kick start your journey in the IOTA community t
 ---
 # What should you know right now?
 
-## Before or during the migration **KEEP YOUR SEED SAFE**! **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
+## Before or during or after the migration **KEEP YOUR SEED SAFE**!  
+**DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
 
 ### The Migration to the Chrysalis network starts with the 21st of April 2021!
 - You can not use Firefly with IOTA tokens until the migration starts on the 21st
