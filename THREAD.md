@@ -4,7 +4,22 @@ Hello and welcome to the IOTA Community!
 
 This post is a starting point to kick start your journey in the IOTA community to start learning and become a knowledgeable IOTA community member.
 
-___
+---
+# What should you know right now?
+
+## Before or during the migration **KEEP YOUR SEED SAFE**! **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
+
+### The Migration to the Chrysalis network starts with the 21st of April 2021!
+- You can not use Firefly with IOTA tokens until the migration starts on the 21st
+- You can not send Firefly/Chrysalis IOTA tokens to exchanges until after the migration starting with the 28th
+- You can not receive IOTA tokens from Exchange to firefly until after the exchanges migrate starting with the 28th
+
+&nbsp;
+Read about the Chrysalis migration [here](https://blog.iota.org/chrysalis-network-migration-release-date/)!
+
+&nbsp;
+
+---
 # What is IOTA?
 
 **IOTA** is a fee less and scaleable transaction settlement and data transfer layer for the Internet of Things (IoT). It is based on a novel distributed ledger technology called the **Tangle**, which overcomes the inefficiencies of current Blockchain designs and introduces a new way of reaching consensus in a decentralized peer-to-peer system.
@@ -13,18 +28,8 @@ ___
 
 &nbsp;
 
-___
-# What should you know right now?
-
-### The Migration to the Chrysalis network starts with the 21st of April 2021
-Read about it [here](https://blog.iota.org/chrysalis-network-migration-release-date/)!
-
-## Before or during the migration **KEEP YOUR SEED SAFE**! **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
-
-&nbsp;
-
 ---
-# How do I find more information about IOTA?
+# Looking for more information about IOTA?
 
 Learn about [Chrysalis](https://chrysalis.iota.org) production ready IOTA 
 
