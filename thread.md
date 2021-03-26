@@ -36,7 +36,7 @@ Learn about [Chrysalis](https://chrysalis.iota.org) production ready IOTA
 
 Learn about [Coordicide](https://coordicide.iota.org) coordinator-free IOTA 
 
-Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iotatoken) / [YouTube](https://youtube.com/c/IOTAFoundation) /
+Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [Discord](https://discord.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iotatoken) / [YouTube](https://youtube.com/c/IOTAFoundation) /
 [Instagram](https://www.instagram.com/iotafoundation/)
 
 ## Resources for Newcomers
