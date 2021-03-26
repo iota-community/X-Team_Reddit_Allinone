@@ -65,6 +65,7 @@ Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blo
 ## Wallet
 * [Trinity Wallet (Desktop / Mobile)](https://trinity.iota.org)
 * **BETA** [Firefly Wallet (Desktop only)](https://blog.iota.org/firefly-beta-release/)
+
 ## Other Resources
 * [IOTA Tangle Explorer](https://explorer.iota.org)
 * [IOTA Status page](https://status.iota.org) 
