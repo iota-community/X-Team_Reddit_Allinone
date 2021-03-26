@@ -4,13 +4,15 @@ Hello and welcome to the IOTA Community!
 
 This post is a starting point to kick start your journey in the IOTA community to start learning and become a knowledgeable IOTA community member.
 
+Been gone for a while? Still using Light wallet? Incorrect balance? [Read this thread](https://www.reddit.com/r/Iota/comments/lkf492/light_wallet_trinity_incorrect_balance_welcome/).
+
 ---
 # What should you know right now?
 
-## Before or during or after the migration **KEEP YOUR SEED SAFE**!  
+**Before, during and after the migration KEEP YOUR SEED SAFE!** 
 **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
 
-### The Migration to the Chrysalis network starts with the 21st of April 2021!
+**The Migration to the Chrysalis network starts with the 21st of April 2021!**
 - You can not use Firefly with IOTA tokens until the migration starts on the 21st
 - You can not send Firefly/Chrysalis IOTA tokens to exchanges until after the migration starting with the 28th
 - You can not receive IOTA tokens from Exchange to firefly until after the exchanges migrate starting with the 28th
