@@ -62,7 +62,7 @@ Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blo
 ## Node Operators
 * [HORNET (Full node)](https://github.com/iotaledger/hornet)
 * [BEE (Alpha Node)](https://github.com/iotaledger/bee)
-* [GOSHIMMER (Coordicide Testnet)] (https://github.com/iotaledger/goshimmer)
+* [GOSHIMMER (Coordicide Testnet)](https://github.com/iotaledger/goshimmer)
 * [CHRONICLE (Permanode)](https://github.com/iotaledger/chronicle)
 
 ## Wallet
