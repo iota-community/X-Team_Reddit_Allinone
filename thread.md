@@ -25,7 +25,7 @@ Read about the Chrysalis migration [here](https://blog.iota.org/chrysalis-networ
 ---
 # What is IOTA?
 
-**IOTA** is a fee less and scaleable transaction settlement and data transfer layer for the Internet of Things (IoT). It is based on a novel distributed ledger technology called the **Tangle**, which overcomes the inefficiencies of current Blockchain designs and introduces a new way of reaching consensus in a decentralized peer-to-peer system.
+**IOTA** is a fee less and scaleable transaction settlement and data transfer layer with a focuss on the Internet of Things (IoT). It is based on a novel distributed ledger technology called the **Tangle**, that uses the Structure of a Directed Acrylitic Graph (DAG) instead of a Blockchain which can overcome the inefficiencies of current Blockchain designs and introduces a new way of reaching consensus in a decentralized peer-to-peer system.
 
 ... and [this](https://explorer.iota.org/mainnet/visualizer/) is how it looks!
 
@@ -34,9 +34,9 @@ Read about the Chrysalis migration [here](https://blog.iota.org/chrysalis-networ
 ---
 # Looking for more information about IOTA?
 
-Learn about [Chrysalis](https://chrysalis.iota.org) production ready IOTA 
+Learn about [Chrysalis](https://chrysalis.iota.org) - the production ready IOTA 
 
-Learn about [Coordicide](https://coordicide.iota.org) coordinator-free IOTA 
+Learn about [Coordicide](https://coordicide.iota.org) - the fully decentralised coordinator-free IOTA 
 
 Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [Discord](https://discord.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iotatoken) / [YouTube](https://youtube.com/c/IOTAFoundation) /
 [Instagram](https://www.instagram.com/iotafoundation/)
@@ -62,6 +62,7 @@ Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blo
 ## Node Operators
 * [HORNET (Full node)](https://github.com/iotaledger/hornet)
 * [BEE (Alpha Node)](https://github.com/iotaledger/bee)
+* [GOSHIMMER (Coordicide Testnet)](https://github.com/iotaledger/goshimmer)
 * [CHRONICLE (Permanode)](https://github.com/iotaledger/chronicle)
 
 ## Wallet
