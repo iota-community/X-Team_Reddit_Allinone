@@ -25,7 +25,7 @@ Read about the Chrysalis migration [here](https://blog.iota.org/chrysalis-networ
 ---
 # What is IOTA?
 
-**IOTA** is a fee less and scaleable transaction settlement and data transfer layer with a focuss on the Internet of Things (IoT). It is based on a novel distributed ledger technology called the **Tangle**, that uses the Structure of a Directed Acrylitic Graph (DAG) instead of a Blockchain which can overcome the inefficiencies of current Blockchain designs and introduces a new way of reaching consensus in a decentralized peer-to-peer system.
+**IOTA** is a feeless and scaleable transaction settlement and data transfer layer with a focus on the Internet of Things (IoT). It is based on a novel distributed ledger technology called the **tangle**, that uses the structure of a Directed Acyclic Graph (DAG) instead of a blockchain which can overcome the inefficiencies of current blockchain designs and introduces a new way of reaching consensus in a decentralized peer-to-peer system.
 
 ... and [this](https://explorer.iota.org/mainnet/visualizer/) is how it looks!
 
