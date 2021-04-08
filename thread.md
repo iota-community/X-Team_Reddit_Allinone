@@ -47,6 +47,7 @@ Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blo
 * [HelloIOTA (YouTube Channel)](https://www.youtube.com/c/helloiota)
 * [Awesome IOTA (Community driven link collection)](https://github.com/iota-community/awesome-iota)
 * How to contribute: [Tanglenauts (Non developers)](https://github.com/iota-community/IOTA-eXperience-Team/blob/main/community/support_the_vision.md) / [IOTA Experience Teams](https://github.com/iota-community/iota-experience-team)
+* Everything you need to know about the upcoming Chrysalis update in one video: [EN](https://www.youtube.com/watch?v=AXXHbrzN5HQ) / [DE](https://www.youtube.com/watch?v=IHmu-vSIL4s)
 
 ### Developers
 * [Developer Documentation](https://docs.iota.org)
