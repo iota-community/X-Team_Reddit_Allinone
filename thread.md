@@ -12,15 +12,18 @@ Been gone for a while? Still using Light wallet? Incorrect balance? [Read this t
 **Before, during and after the migration KEEP YOUR SEED SAFE!** 
 **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
 
-**The Migration to the Chrysalis network starts with the 21st of April 2021!**
-- You can not use Firefly with IOTA tokens until the migration starts on the 21st
-- You can not send Firefly/Chrysalis IOTA tokens to exchanges until after the migration starting with the 28th
-- You can not receive IOTA tokens from Exchange to firefly until after the exchanges migrate starting with the 28th
+**The Migration period has begun. You can now migrate your tokens using the [Firefly wallet](https://firefly.iota.org)
 
 &nbsp;
 Read about the Chrysalis migration [here](https://blog.iota.org/chrysalis-network-migration-release-date/)!
 
 &nbsp;
+
+**Next exciting update is the Nectar release**
+In short the nectar release is the beta of coordicide. 
+Its a full implementation of our Coordicide modules on an incentivized testnet.
+
+Read more about Nectar [here](https://blog.iota.org/iota-2-0-introducing-pollen-nectar-and-honey-de7b9c4c8199/)
 
 ---
 # What is IOTA?
@@ -38,7 +41,7 @@ Learn about [Chrysalis](https://chrysalis.iota.org) - the production ready IOTA
 
 Learn about [Coordicide](https://coordicide.iota.org) - the fully decentralised coordinator-free IOTA 
 
-Everything you need to know about the upcoming Chrysalis update in one video: [EN](https://www.youtube.com/watch?v=AXXHbrzN5HQ) / [DE](https://www.youtube.com/watch?v=IHmu-vSIL4s)
+Everything you need to know about the Chrysalis update in one video: [EN](https://www.youtube.com/watch?v=AXXHbrzN5HQ) / [DE](https://www.youtube.com/watch?v=IHmu-vSIL4s)
 
 Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [Discord](https://discord.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iota) / [YouTube](https://youtube.com/c/IOTAFoundation) /
 [Instagram](https://www.instagram.com/iotafoundation/)
