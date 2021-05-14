@@ -12,14 +12,16 @@ Been gone for a while? Still using Light wallet? Incorrect balance? [Read this t
 **Before, during and after the migration KEEP YOUR SEED SAFE!** 
 **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
 
-**The Migration period has begun. You can now migrate your tokens using the [Firefly wallet](https://firefly.iota.org)
+**The Migration period has begun. You can now migrate your tokens using the [Firefly wallet](https://firefly.iota.org)**
 
 &nbsp;
 Read about the Chrysalis migration [here](https://blog.iota.org/chrysalis-network-migration-release-date/)!
 
 &nbsp;
 
-**Next exciting update is the Nectar release**
+**Next exciting update is the Nectar release**.'
+&nbsp;
+
 In short the nectar release is the beta of coordicide. 
 Its a full implementation of our Coordicide modules on an incentivized testnet.
 
