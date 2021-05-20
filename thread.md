@@ -73,8 +73,8 @@ Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blo
 * [CHRONICLE (Permanode)](https://github.com/iotaledger/chronicle)
 
 ## Wallet
-* [Trinity Wallet (Desktop / Mobile)](https://trinity.iota.org)
-* **BETA** [Firefly Wallet (Desktop only)](https://blog.iota.org/firefly-beta-release/)
+* [Firefly Wallet (Desktop only)](https://blog.iota.org/firefly-beta-release/)
+* **DEPRECATED - Use for migration only ** [Trinity Wallet (Desktop / Mobile)](https://trinity.iota.org) 
 
 ## Other Resources
 * [IOTA Tangle Explorer](https://explorer.iota.org)
