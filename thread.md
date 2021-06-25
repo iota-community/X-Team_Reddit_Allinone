@@ -9,23 +9,23 @@ Been gone for a while? Still using Light wallet? Incorrect balance? [Read this t
 ---
 # What should you know right now?
 
-**Before, during and after the migration KEEP YOUR SEED SAFE!** 
+**Before, during and after the migration KEEP YOUR SEED SAFE!**
 **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
 
-**The Migration period has begun. You can now migrate your tokens using the [Firefly wallet](https://firefly.iota.org)**
+&nbsp;
+**The Migration period has begun. You can now migrate your tokens using the [Firefly wallet](https://firefly.iota.org)**.
 
 &nbsp;
-Read about the Chrysalis migration [here](https://blog.iota.org/chrysalis-network-migration-release-date/)!
+Read about the Chrysalis migration [here](https://blog.iota.org/the-chrysalis-token-migration-starts-now/)!
 
 &nbsp;
 
-**Next exciting update is the Nectar release**.'
-&nbsp;
+**The [IOTA 2.0 DevNet](https://v2.iota.org/) (Nectar) has been released!**
 
-In short the nectar release is the beta of coordicide. 
-Its a full implementation of our Coordicide modules on an incentivized testnet.
+In short, the IOTA 2.0 DevNet release is the beta version of Coordicide.
+It's a full implementation of our Coordicide modules on an incentivized testnet.
 
-Read more about Nectar [here](https://blog.iota.org/iota-2-0-introducing-pollen-nectar-and-honey-de7b9c4c8199/)
+Read more about the IOTA 2.0 DevNet [here](https://blog.iota.org/iotav2devnet/).
 
 ---
 # What is IOTA?
@@ -39,9 +39,9 @@ Read more about Nectar [here](https://blog.iota.org/iota-2-0-introducing-pollen-
 ---
 # Looking for more information about IOTA?
 
-Learn about [Chrysalis](https://chrysalis.iota.org) - the production ready IOTA 
+Learn about [Chrysalis](https://chrysalis.iota.org) - the production ready IOTA
 
-Learn about [Coordicide](https://coordicide.iota.org) - the fully decentralised coordinator-free IOTA 
+Learn about [Coordicide](https://coordicide.iota.org) - the fully decentralised coordinator-free IOTA
 
 Everything you need to know about the Chrysalis update in one video: [EN](https://www.youtube.com/watch?v=AXXHbrzN5HQ) / [DE](https://www.youtube.com/watch?v=IHmu-vSIL4s)
 
@@ -65,6 +65,7 @@ Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blo
 * [Research Papers](https://www.iota.org/foundation/research-papers)
 * [Research Forum](https://iota.cafe)
 * [Coordicide Grants](https://coordicide.iota.org/grants)
+* [IOTA 2.0 Research Specifications](https://blog.iota.org/iota-2-0-research-specifications/)
 
 ## Node Operators
 * [HORNET (Full node)](https://github.com/iotaledger/hornet)
@@ -73,18 +74,18 @@ Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blo
 * [CHRONICLE (Permanode)](https://github.com/iotaledger/chronicle)
 
 ## Wallet
-* [Trinity Wallet (Desktop / Mobile)](https://trinity.iota.org)
-* **BETA** [Firefly Wallet (Desktop only)](https://blog.iota.org/firefly-beta-release/)
+* [Firefly Wallet (Desktop only)](https://blog.iota.org/firefly-beta-release/)
+* [Trinity Wallet (Desktop / Mobile)](https://trinity.iota.org) ** DEPRECATED ** 
+* [IOTA 2.0 DevNet Wallet (Desktop only)](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases/tag/v0.7.0)
 
 ## Other Resources
 * [IOTA Tangle Explorer](https://explorer.iota.org)
-* [IOTA Status page](https://status.iota.org) 
+* [IOTA Status page](https://status.iota.org)
 * [Where to exchange IOTA](https://www.iota.org/get-started/buy-iota)
-
 
 ---
 ### How to add information to this thread
-To add or make changes to this thread simply do a pull-request to [this repository](https://github.com/iota-community/X-Team_Reddit_Allinone) with your edits to the thread.md file. 
+To add or make changes to this thread simply do a pull-request to [this repository](https://github.com/iota-community/X-Team_Reddit_Allinone) with your edits to the thread.md file.
 Once a push to this repository has been made, will be automatically updated to the current version shown
 
 This post will be constantly updated, (you can follow its development over at) the IOTA Community [GitHub](https://github.com/iota-community/X-Team_Reddit_Allinone). (If you miss something, let us know!)
