@@ -13,7 +13,13 @@ Been gone for a while? Still using Light wallet? Incorrect balance? [Read this t
 **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
 
 &nbsp;
+
 **The Migration period has begun. You can now migrate your tokens using the [Firefly wallet](https://firefly.iota.org)**.
+
+
+**Ledger hardware wallet support in Firefly is [available now](https://blog.iota.org/announcing-ledger-nano-support-in-firefly/)**:
+* [Firefly Token Migration Guide for Ledger Users](https://blog.iota.org/firefly-token-migration-guide-for-ledger-users/)
+* [General Use Guide for Ledger Nano with Firefly](https://blog.iota.org/general-use-guide-for-ledger-nano-with-firefly/)
 
 &nbsp;
 Read about the Chrysalis migration [here](https://blog.iota.org/the-chrysalis-token-migration-starts-now/)!
