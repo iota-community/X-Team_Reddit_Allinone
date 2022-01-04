@@ -16,11 +16,11 @@ Been gone for a while? Still using Light wallet? Incorrect balance? [Read this t
 
 **The Staking period has begun. You can now stake your tokens using the [Firefly wallet](https://firefly.iota.org)**.
 
-**You will obtain Shimmer(SMR) and Assembly(ASMB) tokens**
-&nbsp;
-**Shimmer** is the incentivized network for testing new features on IOTA, including smart contracts and the Coordicide.
-&nbsp;
-**Assembly** is a permissionless protocol to build, connect and deploy smart contracts on a feeless multi-chain network.
+**You will obtain Shimmer(SMR) and Assembly(ASMB) tokens**.
+
+* **Shimmer** is the incentivized network for testing new features on IOTA, including smart contracts and the Coordicide.
+
+* **Assembly** is a permissionless protocol to build, connect and deploy smart contracts on a feeless multi-chain network.
 
 **Learn more about the relationship between the 3 networks [Here](https://blog.iota.org/iota-shimmer-assembly/)**
 
