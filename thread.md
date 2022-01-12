@@ -9,20 +9,24 @@ Been gone for a while? Still using Light wallet? Incorrect balance? [Read this t
 ---
 # What should you know right now?
 
-**Before, during and after the migration KEEP YOUR SEED SAFE!**
+
 **DO NOT** share your IOTA Seed with websites, friends, moderators in the IOTA community or even IOTA Foundation members!
 
 &nbsp;
 
-**The Migration period has begun. You can now migrate your tokens using the [Firefly wallet](https://firefly.iota.org)**.
+**The Staking period has begun. You can now stake your tokens using the [Firefly wallet](https://firefly.iota.org)**.
 
+**You will obtain Shimmer(SMR) and Assembly(ASMB) tokens**.
+
+* **Shimmer** is the incentivized network for testing new features on IOTA, including smart contracts and the Coordicide.
+
+* **Assembly** is a permissionless protocol to build, connect and deploy smart contracts on a feeless multi-chain network.
+
+**Learn more about the relationship between the 3 networks [Here](https://blog.iota.org/iota-shimmer-assembly/)**
 
 **Ledger hardware wallet support in Firefly is [available now](https://blog.iota.org/announcing-ledger-nano-support-in-firefly/)**:
-* [Firefly Token Migration Guide for Ledger Users](https://blog.iota.org/firefly-token-migration-guide-for-ledger-users/)
+* [Firefly Staking Guide](https://blog.iota.org/iota-staking-start/)
 * [General Use Guide for Ledger Nano with Firefly](https://blog.iota.org/general-use-guide-for-ledger-nano-with-firefly/)
-
-&nbsp;
-Read about the Chrysalis migration [here](https://blog.iota.org/the-chrysalis-token-migration-starts-now/)!
 
 &nbsp;
 
@@ -47,19 +51,24 @@ Read more about the IOTA 2.0 DevNet [here](https://blog.iota.org/iotav2devnet/).
 
 Learn about [Chrysalis](https://chrysalis.iota.org) - the production ready IOTA
 
-Learn about [Coordicide](https://coordicide.iota.org) - the fully decentralised coordinator-free IOTA
+Learn about [IOTA 2.0](https://v2.iota.org) - the fully decentralised coordinator-free IOTA
 
 Everything you need to know about the Chrysalis update in one video: [EN](https://www.youtube.com/watch?v=AXXHbrzN5HQ) / [DE](https://www.youtube.com/watch?v=IHmu-vSIL4s)
 
-Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [Discord](https://discord.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iota) / [YouTube](https://youtube.com/c/IOTAFoundation) /
+Quick links for **IOTA**: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [Discord](https://discord.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iota) / [YouTube](https://youtube.com/c/IOTAFoundation) /
 [Instagram](https://www.instagram.com/iotafoundation/)
+
+Quick links for **Shimmer**: [Website](https://shimmer.network) / [Blog & Annoucements](https://blog.shimmer.network) / [Twitter](https://twitter.com/shimmernet)
+
+Quick links for **Assembly**: [Website](https://assembly.sc) / [Blog & Annoucements](https://blog.assembly.sc) / [Discord](https://discord.assembly.sc/) / [Twitter](https://twitter.com/assembly_net) / [LinkedIn](https://www.linkedin.com/company/assembly-net) / [Youtube](https://www.youtube.com/channel/UCr_BWKsiXkeOGfcSogh_fIQ)
 
 ## Resources for Newcomers
 * IOTA Beginners Guide: [English](https://iota-beginners-guide.com) / [Deutsch](https://iota-einsteiger-guide.de/)
-* [IOTA Archive (News/Patents aggregator)](https://iotaarchive.com)
 * [HelloIOTA (YouTube Channel)](https://www.youtube.com/c/helloiota)
-* [Awesome IOTA (Community driven link collection)](https://github.com/iota-community/awesome-iota)
-* How to contribute: [Tanglenauts (Non developers)](https://github.com/iota-community/IOTA-eXperience-Team/blob/main/community/support_the_vision.md) / [IOTA Experience Teams](https://github.com/iota-community/iota-experience-team)
+* [IOTAguide](https://iotaguide.notion.site/Welcome-to-IOTAguide-b928ad5611e04168a92ff43b1e1379d9)
+* [Awesome IOTA (Community driven link collection)](https://github.com/iota-community/awesome-iota) (Outdated)
+* [IOTA Archive (News/Patents aggregator)](https://iotaarchive.com) (Outdated)
+* How to contribute: [IOTA Experience Teams](https://github.com/iota-community/iota-experience-team)
 
 ### Developers
 * [Developer Documentation](https://docs.iota.org)
@@ -70,18 +79,18 @@ Quick links: [Website](https://www.iota.org) / [Blog & Annoucements](https://blo
 ## Academia
 * [Research Papers](https://www.iota.org/foundation/research-papers)
 * [Research Forum](https://iota.cafe)
-* [Coordicide Grants](https://coordicide.iota.org/grants)
 * [IOTA 2.0 Research Specifications](https://blog.iota.org/iota-2-0-research-specifications/)
 
 ## Node Operators
 * [HORNET (Full node)](https://github.com/iotaledger/hornet)
-* [BEE (Alpha Node)](https://github.com/iotaledger/bee)
+* [BEE (Full Node)](https://github.com/iotaledger/bee)
 * [GOSHIMMER (Coordicide Testnet)](https://github.com/iotaledger/goshimmer)
+* [WASP (Beta Smart Contract Node)](https://github.com/iotaledger/wasp)
 * [CHRONICLE (Permanode)](https://github.com/iotaledger/chronicle)
 
 ## Wallet
-* [Firefly Wallet (Desktop only)](https://blog.iota.org/firefly-beta-release/)
-* [Trinity Wallet (Desktop / Mobile)](https://trinity.iota.org) ** DEPRECATED ** 
+* [Firefly Wallet (Desktop only)](https://firefly.iota.org)
+* [Tanglepay (Mobile only community wallet)](https://firefly.iota.org)
 * [IOTA 2.0 DevNet Wallet (Desktop only)](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases/tag/v0.7.0)
 
 ## Other Resources
