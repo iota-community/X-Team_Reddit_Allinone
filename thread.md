@@ -63,6 +63,7 @@ Quick links for **Shimmer**: [Website](https://shimmer.network) / [Blog & Annouc
 Quick links for **Assembly**: [Website](https://assembly.sc) / [Blog & Annoucements](https://blog.assembly.sc) / [Discord](https://discord.assembly.sc/) / [Twitter](https://twitter.com/assembly_net) / [LinkedIn](https://www.linkedin.com/company/assembly-net) / [Youtube](https://www.youtube.com/channel/UCr_BWKsiXkeOGfcSogh_fIQ)
 
 ## Resources for Newcomers
+* [IOTA Wiki](https://wiki.iota.org)
 * IOTA Beginners Guide: [English](https://iota-beginners-guide.com) / [Deutsch](https://iota-einsteiger-guide.de/)
 * [HelloIOTA (YouTube Channel)](https://www.youtube.com/c/helloiota)
 * [IOTAguide](https://iotaguide.notion.site/Welcome-to-IOTAguide-b928ad5611e04168a92ff43b1e1379d9)
