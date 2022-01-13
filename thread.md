@@ -24,9 +24,9 @@ Been gone for a while? Still using Light wallet? Incorrect balance? [Read this t
 
 **Learn more about the relationship between the 3 networks [Here](https://blog.iota.org/iota-shimmer-assembly/)**
 
-**Ledger hardware wallet support in Firefly is [available now](https://blog.iota.org/announcing-ledger-nano-support-in-firefly/)**:
 * [Firefly Staking Guide](https://blog.iota.org/iota-staking-start/)
-* [General Use Guide for Ledger Nano with Firefly](https://blog.iota.org/general-use-guide-for-ledger-nano-with-firefly/)
+
+**Ledger hardware wallet support in Firefly is [available now](https://blog.iota.org/general-use-guide-for-ledger-nano-with-firefly/)**
 
 &nbsp;
 
@@ -92,7 +92,7 @@ Quick links for **Assembly**: [Website](https://assembly.sc) / [Blog & Annouceme
 ## Wallet
 * [Firefly Wallet (Desktop only)](https://firefly.iota.org)
 * [Tanglepay (Mobile only community wallet)](https://firefly.iota.org)
-* [IOTA 2.0 DevNet Wallet (Desktop only)](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases/tag/v0.7.0)
+* [IOTA 2.0 DevNet Wallet (Desktop only)](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases/tag/v0.8.0)
 
 ## Other Resources
 * [IOTA Tangle Explorer](https://explorer.iota.org)
