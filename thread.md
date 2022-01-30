@@ -53,21 +53,23 @@ Learn about [Chrysalis](https://chrysalis.iota.org) - the production ready IOTA
 
 Learn about [IOTA 2.0](https://v2.iota.org) - the fully decentralised coordinator-free IOTA
 
+Learn about the [Tokenisation Framework](https://blog.iota.org/iota-tokenization-framework-specifications/) and [IOTA Smart Contracts](https://blog.iota.org/iota-smart-contracts-beta-release/) - The future of IOTA, available soon on the Shimmer Network
+
 Everything you need to know about the Chrysalis update in one video: [EN](https://www.youtube.com/watch?v=AXXHbrzN5HQ) / [DE](https://www.youtube.com/watch?v=IHmu-vSIL4s)
 
 Quick links for **IOTA**: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [Discord](https://discord.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iota) / [YouTube](https://youtube.com/c/IOTAFoundation) /
-[Instagram](https://www.instagram.com/iotafoundation/)
+[Instagram](https://www.instagram.com/iotafoundation/) / [Wiki](https://wiki.iota.org/)
 
-Quick links for **Shimmer**: [Website](https://shimmer.network) / [Blog & Annoucements](https://blog.shimmer.network) / [Twitter](https://twitter.com/shimmernet)
+Quick links for **Shimmer**: [Website](https://shimmer.network) / [Blog & Annoucements](https://blog.shimmer.network) / [Twitter](https://twitter.com/shimmernet) / [LinkedIn](https://www.linkedin.com/company/shimmernet/)
 
-Quick links for **Assembly**: [Website](https://assembly.sc) / [Blog & Annoucements](https://blog.assembly.sc) / [Discord](https://discord.assembly.sc/) / [Twitter](https://twitter.com/assembly_net) / [LinkedIn](https://www.linkedin.com/company/assembly-net) / [Youtube](https://www.youtube.com/channel/UCr_BWKsiXkeOGfcSogh_fIQ)
+Quick links for **Assembly**: [Website](https://assembly.sc) / [Blog & Annoucements](https://blog.assembly.sc) / [Discord](https://discord.assembly.sc/) / [Twitter](https://twitter.com/assembly_net) / [LinkedIn](https://www.linkedin.com/company/assembly-net) / [Youtube](https://www.youtube.com/channel/UCr_BWKsiXkeOGfcSogh_fIQ) / [Wiki](https://wiki.assembly.sc/)
 
 ## Resources for Newcomers
 * [IOTA Wiki](https://wiki.iota.org)
 * IOTA Beginners Guide: [English](https://iota-beginners-guide.com) / [Deutsch](https://iota-einsteiger-guide.de/)
-* [HelloIOTA (YouTube Channel)](https://www.youtube.com/c/helloiota)
+* [IOTA Weekly (YouTube Channel)](https://www.youtube.com/c/IOTAWeekly)
+* [Everything Tangle (Youtube Channel)](https://www.youtube.com/c/everythingtangle)
 * [IOTAguide](https://iotaguide.notion.site/Welcome-to-IOTAguide-b928ad5611e04168a92ff43b1e1379d9)
-* [Awesome IOTA (Community driven link collection)](https://github.com/iota-community/awesome-iota) (Outdated)
 * [IOTA Archive (News/Patents aggregator)](https://iotaarchive.com) (Outdated)
 * How to contribute: [IOTA Experience Teams](https://github.com/iota-community/iota-experience-team)
 
@@ -92,7 +94,7 @@ Quick links for **Assembly**: [Website](https://assembly.sc) / [Blog & Annouceme
 ## Wallet
 * [Firefly Wallet (Desktop only)](https://firefly.iota.org)
 * [Tanglepay (Mobile only community wallet)](https://firefly.iota.org)
-* [IOTA 2.0 DevNet Wallet (Desktop only)](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases/tag/v0.8.0)
+* [IOTA 2.0 DevNet Wallet (Desktop only)](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases)
 
 ## Other Resources
 * [IOTA Tangle Explorer](https://explorer.iota.org)
