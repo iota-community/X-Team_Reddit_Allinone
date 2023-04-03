@@ -60,10 +60,11 @@ Quick links for **Assembly**: [Website](https://assembly.sc) / [Blog & Annouceme
 
 ---
 # Official Coins and NFTs
-Shimmer Coin warning Always make sure Standard is: `BASE_Token` and ID is `4219` ![]https://media.discordapp.net/attachments/1034707661419204691/1034709520175337472/unknown.png
+Shimmer Coin warning Always make sure Standard is: `BASE_Token` and ID is `4219`  
+![](https://media.discordapp.net/attachments/1034707661419204691/1034709520175337472/unknown.png)
 
-Shimmer OG NFT Immutable issuer address `smr1zru82lsuclkkprh705kv87s75785gq2utetdz4py29k2jdy69006umcx6ev`
-![  ]https://media.discordapp.net/attachments/1034707661419204691/1034712446943899688/unknown.png
+Shimmer OG NFT Immutable issuer address `smr1zru82lsuclkkprh705kv87s75785gq2utetdz4py29k2jdy69006umcx6ev`  
+![](https://media.discordapp.net/attachments/1034707661419204691/1034712446943899688/unknown.png)
 
 ## Resources for Newcomers
 * [IOTA Wiki](https://wiki.iota.org)
