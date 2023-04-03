@@ -4,7 +4,10 @@ Hello and welcome to the IOTA Community!
 
 This post is a starting point to kick start your journey in the IOTA community to start learning and become a knowledgeable IOTA community member.
 
-Been gone for a while? Still using Light wallet? Incorrect balance? [Read this thread](https://www.reddit.com/r/Iota/comments/lkf492/light_wallet_trinity_incorrect_balance_welcome/).
+
+Been gone for a while? Still using Trinity? Read these guides to learn how to migrate to Firefly:
+* [Migrate your 81 characters seed](https://blog.iota.org/firefly-token-migration/)
+* [Migrate your Ledger Nano profile](https://blog.iota.org/firefly-token-migration-guide-for-ledger-users/)
 
 ---
 # What should you know right now?
@@ -14,11 +17,9 @@ Been gone for a while? Still using Light wallet? Incorrect balance? [Read this t
 
 &nbsp;
 
-**The Staking period has begun. You can now stake your tokens using the [Firefly wallet](https://firefly.iota.org)**.
+**The Staking period continues. You can now stake your tokens using the [Firefly wallet](https://firefly.iota.org)**.
 
-**You will obtain Shimmer(SMR) and Assembly(ASMB) tokens**.
-
-* **Shimmer** is the incentivized network for testing new features on IOTA, including smart contracts and the Coordicide.
+**You will obtain Assembly(ASMB) tokens**.
 
 * **Assembly** is a permissionless protocol to build, connect and deploy smart contracts on a feeless multi-chain network.
 
@@ -29,13 +30,6 @@ Been gone for a while? Still using Light wallet? Incorrect balance? [Read this t
 **Ledger hardware wallet support in Firefly is [available now](https://blog.iota.org/general-use-guide-for-ledger-nano-with-firefly/)**
 
 &nbsp;
-
-**The [IOTA 2.0 DevNet](https://v2.iota.org/) (Nectar) has been released!**
-
-In short, the IOTA 2.0 DevNet release is the beta version of Coordicide.
-It's a full implementation of our Coordicide modules on an incentivized testnet.
-
-Read more about the IOTA 2.0 DevNet [here](https://blog.iota.org/iotav2devnet/).
 
 ---
 # What is IOTA?
@@ -53,48 +47,51 @@ Learn about [Chrysalis](https://chrysalis.iota.org) - the production ready IOTA
 
 Learn about [IOTA 2.0](https://v2.iota.org) - the fully decentralised coordinator-free IOTA
 
-Learn about the [Tokenisation Framework](https://blog.iota.org/iota-tokenization-framework-specifications/) and [IOTA Smart Contracts](https://blog.iota.org/iota-smart-contracts-beta-release/) - The future of IOTA, available soon on the Shimmer Network
+Learn about the [Tokenisation Framework](https://blog.iota.org/iota-tokenization-framework-specifications/) and [IOTA Smart Contracts](https://blog.iota.org/iota-smart-contracts-beta-release/) - The future of IOTA, is available now on the Shimmer Network as [ShimmerEVM testnet](https://blog.shimmer.network/shimmerevm-testnet-launch/)
 
 Everything you need to know about the Chrysalis update in one video: [EN](https://www.youtube.com/watch?v=AXXHbrzN5HQ) / [DE](https://www.youtube.com/watch?v=IHmu-vSIL4s)
 
-Quick links for **IOTA**: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [Discord](https://discord.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iota) / [YouTube](https://youtube.com/c/IOTAFoundation) /
-[Instagram](https://www.instagram.com/iotafoundation/) / [Wiki](https://wiki.iota.org/)
+Official links for **IOTA**: [Website](https://www.iota.org) / [Blog & Annoucements](https://blog.iota.org) / [Roadmap](https://roadmap.iota.org) / [Discord](https://discord.iota.org) / [LinkedIn](https://www.linkedin.com/company/iotafoundation/) / [Twitter](https://twitter.com/iota) / [YouTube](https://youtube.com/c/IOTAFoundation) /
+[Instagram](https://www.instagram.com/iotafoundation/) / [Wiki](https://wiki.iota.org/) / [IOTA Governance Forum](https://govern.iota.org/) / 
 
 Quick links for **Shimmer**: [Website](https://shimmer.network) / [Blog & Annoucements](https://blog.shimmer.network) / [Twitter](https://twitter.com/shimmernet) / [LinkedIn](https://www.linkedin.com/company/shimmernet/)
 
 Quick links for **Assembly**: [Website](https://assembly.sc) / [Blog & Annoucements](https://blog.assembly.sc) / [Discord](https://discord.assembly.sc/) / [Twitter](https://twitter.com/assembly_net) / [LinkedIn](https://www.linkedin.com/company/assembly-net) / [Youtube](https://www.youtube.com/channel/UCr_BWKsiXkeOGfcSogh_fIQ) / [Wiki](https://wiki.assembly.sc/)
 
+---
+# Official Coins and NFTs
+Shimmer Coin warning Always make sure Standard is: `BASE_Token` and ID is `4219` ![]https://media.discordapp.net/attachments/1034707661419204691/1034709520175337472/unknown.png
+
+Shimmer OG NFT Immutable issuer address `smr1zru82lsuclkkprh705kv87s75785gq2utetdz4py29k2jdy69006umcx6ev`
+![  ]https://media.discordapp.net/attachments/1034707661419204691/1034712446943899688/unknown.png
+
 ## Resources for Newcomers
 * [IOTA Wiki](https://wiki.iota.org)
 * IOTA Beginners Guide: [English](https://iota-beginners-guide.com) / [Deutsch](https://iota-einsteiger-guide.de/)
-* [IOTA Weekly (YouTube Channel)](https://www.youtube.com/c/IOTAWeekly)
 * [Everything Tangle (Youtube Channel)](https://www.youtube.com/c/everythingtangle)
 * [IOTAguide](https://iotaguide.notion.site/Welcome-to-IOTAguide-b928ad5611e04168a92ff43b1e1379d9)
 * [IOTA Archive (News/Patents aggregator)](https://iotaarchive.com) (Outdated)
-* How to contribute: [IOTA Experience Teams](https://github.com/iota-community/iota-experience-team)
 
 ### Developers
-* [Developer Documentation](https://docs.iota.org)
-* [Chrysalis Developer Documentation](https://chrysalis.docs.iota.org/introduction/welcome.html)
+* [Developer Documentation](https://wiki.iota.org/develop/welcome/)
+* [Shimmer Developer Get Started](https://shimmer.network/developer)
 * [GitHub](https://github.com/iotaledger)
 * [Questions? StackExchange!](https://iota.stackexchange.com)
+* [Touchpoint Open Builders Program](https://shimmer.network/touchpoint)
 
 ## Academia
 * [Research Papers](https://www.iota.org/foundation/research-papers)
-* [Research Forum](https://iota.cafe)
 * [IOTA 2.0 Research Specifications](https://blog.iota.org/iota-2-0-research-specifications/)
 
 ## Node Operators
 * [HORNET (Full node)](https://github.com/iotaledger/hornet)
-* [BEE (Full Node)](https://github.com/iotaledger/bee)
 * [GOSHIMMER (Coordicide Testnet)](https://github.com/iotaledger/goshimmer)
 * [WASP (Beta Smart Contract Node)](https://github.com/iotaledger/wasp)
-* [CHRONICLE (Permanode)](https://github.com/iotaledger/chronicle)
 
 ## Wallet
-* [Firefly Wallet (Desktop only)](https://firefly.iota.org)
-* [Tanglepay (Mobile only community wallet)](https://firefly.iota.org)
-* [IOTA 2.0 DevNet Wallet (Desktop only)](https://github.com/iotaledger/IOTA-2.0-DevNet-wallet/releases)
+* [Firefly Wallet (Desktop and Mobile)](https://firefly.iota.org)
+* [Tanglepay (Community built wallet)](https://tanglepay.com/)
+* [Bivreost (Telegram web wallet - Community built wallet)](https://bivreost.com/)
 
 ## Other Resources
 * [IOTA Tangle Explorer](https://explorer.iota.org)
